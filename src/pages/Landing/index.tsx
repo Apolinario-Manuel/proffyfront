@@ -45,7 +45,7 @@ function Landing() {
 
           <Link to="/give-classes" className="give-classes">
             <img src={giveClassesIcon} alt="Lecionar"/>
-            Dar aulas
+            Lecionar
           </Link>
         </div>
 
